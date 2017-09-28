@@ -18,7 +18,8 @@
 
 #define ledpin D2
 #define dhttyp 22
-#define 
+#define dhtpin D6
+
 
 void setup() {
   // put your setup code here, to run once:
